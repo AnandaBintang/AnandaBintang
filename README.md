@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnandaBintang
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue Js. and Express.js
+- 🌱 I’m currently learning Vue Js.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
